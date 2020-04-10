@@ -13,9 +13,9 @@ import Loader from './loader.js'
 
 # USAGE
 
-{PLoader({
+PLoader({
  processing: true or false,
  processed: true or false,
  initText: 'Processing',
  finishText: 'Done',
-})}
+})
